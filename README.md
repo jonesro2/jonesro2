@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonesro2
-- 👀 I’m interested in medicine, anatomy&physiology, molecular biology, data analysis, coding, reading, hiking/nature and DOGS.
-- 🌱 I’m currently learning python on my own and have learned the absolute basics in R and SQL through the google data analyst course in Coursera.
+- 👀 I’m interested in bioinformatics, molecular biology, medicine, data analysis, coding, reading, hiking/nature and dogs.
+- 🌱 I’m currently learning all things bioinformatics at Brandeis.
 
 
 <!---
